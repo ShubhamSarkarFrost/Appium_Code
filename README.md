@@ -1,5 +1,5 @@
 # Appium_Code
-This is my way of creation of Test Suite with Appium 2.0
+This is my way of creation of Test Suite with Appium 2.0(Windows 11)
 
 Installation 
 Android 
@@ -24,6 +24,12 @@ Setup the SDK - Android API 35
 Setup the emulator - Pixel 4 download 
 
 to start the Emulator=  emulator -avd DEVICE_NAME  ; eg = emulator -avd TestAndroidDevice 
+
+To get the appActivity and appPackage use = adb shell dumpsys window | findstr "mCurrentFocus"
+
+set the Following in appium inspector
+
+
 
 
 
