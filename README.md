@@ -28,6 +28,14 @@ to start the Emulator=  emulator -avd DEVICE_NAME  ; eg = emulator -avd TestAndr
 To get the appActivity and appPackage use = adb shell dumpsys window | findstr "mCurrentFocus"
 
 set the Following in appium inspector
+{
+  "appium:appPackage": "io.appium.android.apis",
+  "appium:appActivity": "io.appium.android.apis.ApiDemos",
+  "appium:deviceName": "TestAndroidDevice",
+  "platformName": "Android",
+  "appium:noReset": "true"
+}
+
 
 
 
