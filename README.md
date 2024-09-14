@@ -37,6 +37,9 @@ set the Following in appium inspector
   "appium:noReset": "true"
 }
 
+Points to Remmember if the Appium server is Opened in PID then we cannot open a new instance of Appium in the same port so use this - >netstat -ano | findstr :4723 to find in which port it is open and then use - taskkill /PID 8772 /F command to close the Job 
+
+
 
 
 
