@@ -32,6 +32,7 @@ set the Following in appium inspector
   "appium:appPackage": "io.appium.android.apis",
   "appium:appActivity": "io.appium.android.apis.ApiDemos",
   "appium:deviceName": "TestAndroidDevice",
+  "appium:automationName": "UiAutomator2",
   "platformName": "Android",
   "appium:noReset": "true"
 }
