@@ -44,4 +44,8 @@ Screenshots
 ![Test Screenshots Two](https://github.com/ShubhamSarkarFrost/Appium_Code/blob/master/target/screenshots/Validate_the_Navigation_of_the_Application_is_Correct_or_Not_20240916002341.png)
 
 
+Tests Reports are configured through allure so we can view them like
+![Allure-Test-Screenshot](https://github.com/ShubhamSarkarFrost/Appium_Code/blob/master/Screenshot%202024-09-16%20003805.png)
+
+
 The Reports are generated through Allure Like
