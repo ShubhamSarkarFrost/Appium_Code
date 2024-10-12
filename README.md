@@ -18,7 +18,7 @@ Appium Installation
 command - npm install -g appium@latest
 
 to start Appium Server Type- appium 
-Download the UiAutomator2 driver
+Download the UiAutomator2 driver - appium driver install uiautomator2
 
 Setup the SDK - Android API 35
 Setup the emulator - Pixel 4 download 
